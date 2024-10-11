@@ -1,0 +1,1 @@
+ C:\\Users\\vinic\\source\\repos\\flux\\Flux\\projectflux\\.dart_tool\\flutter_build\\09d7589c28c4ace50a239d04f7c2d6db\\native_assets.yaml: 

@@ -1,0 +1,1 @@
+ C:\\FluxFarma\\projectflux\\.dart_tool\\flutter_build\\375cdb79cf9f81cda311d6923c9b6842\\native_assets.yaml: 

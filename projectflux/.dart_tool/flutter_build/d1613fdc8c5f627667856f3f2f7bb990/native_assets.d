@@ -1,0 +1,1 @@
+ C:\\Users\\vinic\\source\\repos\\AppGetx\\AppGetx\\projectgetx\\.dart_tool\\flutter_build\\d1613fdc8c5f627667856f3f2f7bb990\\native_assets.yaml: 
